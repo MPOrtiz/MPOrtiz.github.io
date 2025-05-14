@@ -20,6 +20,7 @@ Built a predictive model with **XGBoost** achieving **85% accuracy** to identify
 ### 🚖 Taxi Demand Forecasting – TripleTen (December 2024)  
 [GitHub Repository](https://github.com/MPOrtiz/SweetLifeTaxi_TemporalSeries)  
 Implemented a time-series regression model using **CatBoost** to forecast hourly taxi demand, improving operational planning by **25%**. Applied time-series techniques to enhance forecast accuracy.
+
 ---
 
 ## 🧳 Professional Experience  
