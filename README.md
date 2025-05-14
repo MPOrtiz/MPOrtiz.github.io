@@ -2,7 +2,7 @@
 📍 *Mexico — Open to Remote Work in US & EU Time Zones*  
 
 ### 🧠 Key Skills  
-Python, SQL, R, C++, Scikit-learn, MLflow, pandas, statsmodels, Power BI, Tableau, Excel, SAP, Git, VS Code, Jupyter, A/B Testing, EDA, Feature Engineering, DOE, DMAIC, Lean Six Sigma Green Belt  
+Python | SQL | R | C++ | Scikit-learn | MLflow | pandas | statsmodels | Power BI | Tableau | Excel | SAP | Git | VS Code | Jupyter | A/B Testing | EDA | Feature Engineering | DOE | DMAIC | Lean Six Sigma Green Belt
 
 ---
 
