@@ -7,8 +7,8 @@ Python, SQL, R, C++, Scikit-learn, MLflow, pandas, statsmodels, Power BI, Tablea
 ---
 
 ## 🎓 Education  
-- **Data Scientist** – TripleTen (_May 2024 – February 2025_)  
-- **Industrial Engineering** – Universidad Iberoamericana, Puebla (_2014 – 2018_)  
+- **Data Scientist** – TripleTen (_May 2024 – February 2025_)
+- **Industrial Engineering** – – Universidad Iberoamericana, Puebla (_2014 – 2018_)
 
 ---
 
