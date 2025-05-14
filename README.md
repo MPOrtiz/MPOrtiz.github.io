@@ -9,19 +9,17 @@ Python, SQL, R, C++, Scikit-learn, MLflow, pandas, statsmodels, Power BI, Tablea
 ## 🎓 Education  
 - **Data Scientist** – TripleTen (_May 2024 – February 2025_)  
 - **Industrial Engineering** – Universidad Iberoamericana, Puebla (_2014 – 2018_)  
-
 ---
 
 ## 🚀 Highlight Projects  
 
 ### 📉 Customer Churn Prediction – TripleTen (February 2025)  
-[GitHub Repository](https://github.com/tu_usuario/churn-prediction) *(Add the link if available)*  
+[GitHub Repository](https://github.com/MPOrtiz/Interconnect)   
 Built a predictive model with **XGBoost** achieving **85% accuracy** to identify at-risk customers in a telecom company. Used **feature selection** and **SHAP explanations** to interpret results and support strategic decisions.
 
 ### 🚖 Taxi Demand Forecasting – TripleTen (December 2024)  
-[GitHub Repository](https://github.com/tu_usuario/taxi-demand-forecasting)  
+[GitHub Repository](https://github.com/MPOrtiz/SweetLifeTaxi_TemporalSeries)  
 Implemented a time-series regression model using **CatBoost** to forecast hourly taxi demand, improving operational planning by **25%**. Applied time-series techniques to enhance forecast accuracy.
-
 ---
 
 ## 🧳 Professional Experience  
@@ -41,20 +39,17 @@ Improved manufacturing processes using statistical tools and Lean Six Sigma meth
 - Reduced CVT chain defects for FORD below 0.5% through data-driven analysis.  
 - Applied **DOE** in lines for **Volvo and Daimler**, reducing bushing scrap rates.  
 - Conducted multivariate analysis to improve measurement reliability across test systems.  
-
 ---
 
 ## 📚 Additional Training  
 - Green Belt – Schaeffler Academy  
 - Digital Marketing – IBERO  
 - Social Economy – IBERO  
-
 ---
 
 ## 🌐 Languages  
 - Spanish (Native)  
 - English (Upper-intermediate – B2)  
-
 ---
 
 ## 📬 Contact Me  
