@@ -41,17 +41,20 @@ Improved manufacturing processes using statistical tools and Lean Six Sigma meth
 - Reduced CVT chain defects for FORD below 0.5% through data-driven analysis.  
 - Applied **DOE** in lines for **Volvo and Daimler**, reducing bushing scrap rates.  
 - Conducted multivariate analysis to improve measurement reliability across test systems.  
+
 ---
 
 ## 📚 Additional Training  
 - Green Belt – Schaeffler Academy  
 - Digital Marketing – IBERO  
 - Social Economy – IBERO  
+
 ---
 
 ## 🌐 Languages  
 - Spanish (Native)  
 - English (Upper-intermediate – B2)  
+
 ---
 
 ## 📬 Contact Me  
